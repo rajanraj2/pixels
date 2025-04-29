@@ -2,6 +2,8 @@
 
 Pixels is a minimal, modern web application designed to help learners and educators visualize and understand core concepts of image and video processing using OpenCV. The platform allows users to apply a range of transformations to images in real time, making it a valuable educational tool for courses in computer vision and related fields.
 
+Live link - https://pixels-jet.vercel.app/
+
 ![alt text](ss1.png)
 ![alt text](ss2.png)
 ![alt text](ss3.png) 
